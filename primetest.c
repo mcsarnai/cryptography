@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
-#define TRUE 0
-#define FALSE 1
+#define TRUE 1
+#define FALSE 0
 
 /*a és b legnagyobb közös osztójának megkeresése.*/
 int lnko(int a, int b)
